@@ -1,0 +1,23 @@
+project:
+  type: book
+  output-dir: docs
+book:
+  title: "test_book"
+  author: "Norah Jones"
+  date: "9/25/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
