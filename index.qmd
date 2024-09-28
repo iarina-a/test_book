@@ -2,6 +2,4 @@
 
 This is a Quarto book.
 
-! \[Mountain\](<https://www.google.com/search?client=firefox-b-d&q=photo+of+mountain%C3%A2#vhid=DGiRVj1IN_mWjM&vssid=_Dzz4ZvepNee6i-gPlsmEuAM_32>)
-
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
