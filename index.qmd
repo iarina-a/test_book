@@ -4,4 +4,8 @@ This is a Quarto book.
 
 \![Picture](https://www.nga.gov/collection/art-object-page.4881.htmlhttps://www.nga.gov/collection/art-object-page.4881.html)
 
+\`\`\`{r} #\| echo: false install.packages("webexercises") library(webexercises)
+
+Fill in any vowel: `r fitb(c("A", "E", "I", "O" , "U"), ignore_case = TRUE)`
+
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
