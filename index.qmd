@@ -2,4 +2,6 @@
 
 This is a Quarto book.
 
+\![Picture](https://www.nga.gov/collection/art-object-page.4881.htmlhttps://www.nga.gov/collection/art-object-page.4881.html)
+
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
